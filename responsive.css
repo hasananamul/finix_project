@@ -1,4 +1,16 @@
 
+@media all and (min-width:1377px){
+    .index-1-value-sec-image img {
+        display: none;
+    }
+    .index-1-company-values-section {
+        background-image: url(images/company.jpg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+    }
+
+}
 
 
 @media all and (max-width:1376px){
@@ -311,15 +323,3 @@
     transform: translateY(28%);
     right: 14%;
 }
-@media all and (min-width:1377px){
-    .index-1-value-sec-image img {
-        display: none;
-    }
-    .index-1-company-values-section {
-        background-image: url(images/company.jpg);
-        background-repeat: no-repeat;
-        width: 100%;
-        height: 100%;
-    }
-
-
